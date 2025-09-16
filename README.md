@@ -311,11 +311,10 @@ graph LR
 | **Background** | Context setting | Problem/opportunity description |
 | **Solutions** | Proposed approach | Alternative solutions and recommendations |
 | **Resources & Cost** | Investment requirements | Budget, timeline, resources needed |
-| **Benefits & Value** | Expected returns | 
-Return on investment, strategic value, competitive advantage |
+| **Benefits & Value** | Expected returns | ROI, strategic value, competitive advantage |
 | **Risks** | Risk assessment | Potential challenges and mitigation |
 | **Recommended Action** | Clear direction | Next steps and decision points |
-| **Return on Invesment** | Financial justification | Return on investment calculations |
+| **ROI** | Financial justification | Return on investment calculations |
 
 ### Detailed Business Case Structure
 
